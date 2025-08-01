@@ -1,9 +1,6 @@
 # Awesome Sites To Test On
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/30e7ed75-c605-444d-a76c-20fbfc40ecd8" />
 
-> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | [![Actions Status](https://github.com/bmayhew/awesome-sites-to-test-on/workflows/Link%20Checker/badge.svg)](https://github.com/bmayhew/awesome-sites-to-test-on/actions)
-
-![Awesome Sites To Test On](awesomesitestoteston.png)
- 
 > A curated list of sites to practice testing on
 
 - [Awesome Sites To Test On](#awesome-sites-to-test-on)
